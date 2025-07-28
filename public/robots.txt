@@ -1,0 +1,17 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: facebookexternalhit
+Disallow: /
+
+User-agent: *
+Disallow: /
